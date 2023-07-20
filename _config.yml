@@ -37,8 +37,7 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?gid=0&single=true&output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/master/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmI3x5VnMjPtcCYCBmhbvSXicr-nDCdlCFOkfnxslwlXRFsaXCL7kIM4JFa7lmTxzbLYlTiyfLJRqS/pub?gid=124393943&single=true&output=csv
-
+metadata-csv: https://docs.google.com/spreadsheets/d/1U6ECRhNUmYQwScnvkqmOTctv3BTb76h0JBFL3qm8V3Y/edit?usp=sharing
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
